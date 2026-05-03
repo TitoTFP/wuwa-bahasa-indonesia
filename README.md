@@ -4,111 +4,111 @@
 
 # 02/05/2026 Update 3.3
 
-muốn xem thêm việt hóa CN to VI kham khảo nguồn bên này
+ingin melihat sumber terjemahan lain referensi di sini
 https://github.com/CallMeDangDev/WuwaVH
 
-# Wuthering Waves Việt Hóa 
-lưu ý vui lòng không sử dụng tài khoản chính.
-LỆNH CẤM LUÔN LUÔN LÀ 10 NĂM.
+# Wuthering Waves Bahasa Indonesia 
+catatan, tolong jangan gunakan akun utama.
+BANNED SELALU 10 TAHUN.
 
 
 
 
 <!--
 <details>
-<summary>📌 Click cho ăn xin :) </summary>
+<summary>📌 Klik untuk donasi :) </summary>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/82c42a37-e5d5-4b52-bc1f-27348a734a8e" width="724" height="1459">
 </p>
 </details>
 -->
 
-Trước khi đồ thừa cho cái gì ăn cắp thông tin của bạn tại sao không kiểm tra máy mình trước. Xem [hướng dẫn](https://github.com/Lai-Hoang/wuwa-viet-hoa/blob/main/Cach_quet_virus_may_ban.md).
+Sebelum menyalahkan sesuatu yang mencuri informasi Anda, mengapa tidak memeriksa komputer Anda terlebih dahulu. Lihat [panduan](Cara_scan_virus.md).
 <br>
-Sử dụng Việt Hóa này bạn không cần phải tắt antivirus trên máy của bạn oke.
+Dengan menggunakan terjemahan ini, Anda tidak perlu mematikan antivirus di komputer Anda, oke.
 <br>
 
-Giải thích 2 file version.dll,wuwaVietHoa.dll
+Penjelasan 2 file version.dll, wuwaIndonesia.dll
 <br>
-version.dll có tác dụng để load wuwaVietHoa.dll vào game.
+version.dll berfungsi untuk memuat wuwaIndonesia.dll ke dalam game.
 <br>
-wuwaVietHoa.dll có tác dụng bỏ qua kiểm tra Chữ ký file Pak của game (cần thiết. nếu không có chơi 15p sẽ bị văng game).
+wuwaIndonesia.dll berfungsi untuk melewati pemeriksaan Signature file Pak dari game (penting. Jika tidak ada, bermain 15 menit akan crash/terlempar dari game).
 <br>
 <br>
 
 <!--
-Xem cách tránh bị game ban [ở đây](https://github.com/Lai-Hoang/wuwa-viet-hoa/blob/main/Cach_Tranh_Bi_Game_Ban.md) lưu ý vẫn luôn khuyên cách bạn không nên sử dụng trên tài khoản chính.
+Lihat cara menghindari banned game [di sini](Cach_Tranh_Bi_Game_Ban.md) catatan selalu sarankan Anda tidak boleh menggunakannya di akun utama.
 -->
-tải mod ở [ĐÂY](https://github.com/Lai-Hoang/wuwa-viet-hoa/releases/latest)
+unduh mod di [SINI](https://github.com/Lai-Hoang/wuwa-bahasa-indonesia/releases/latest)
 <br>
-Video hướng dẫn: [Bản Launcher](https://streamable.com/qsgixc), [Bản Steam](https://streamable.com/601adx)
+Video tutorial: [Versi Launcher](https://streamable.com/qsgixc), [Versi Steam](https://streamable.com/601adx)
 <br>
 
-giải nén file và copy thư mục đến đường dẫn dưới đây
+ekstrak file dan salin folder ke path berikut
 ```console
 \Wuthering Waves\Wuthering Waves Game\
 ```
-cách xác định đường dẫn trên:
-chuột phải vào icon shortcut Wuthering Waves trên
-màn hình desktop chọn "Open file location"
+cara menentukan path di atas:
+klik kanan pada ikon shortcut Wuthering Waves di desktop
+pilih "Open file location"
 <br>
 
-![Ảnh chụp màn hình](https://imgur.com/rA4D1Fp.png)
+![Screenshot](https://imgur.com/rA4D1Fp.png)
 <br>
 
-tìm thư mục có tên "Wuthering Waves Game" nhấn vào
+cari folder dengan nama "Wuthering Waves Game" dan klik
 <br>
 
-![Ảnh chụp màn hình](https://imgur.com/RiJpLdB.png)
+![Screenshot](https://imgur.com/RiJpLdB.png)
 <br>
-copy thư mục "client" vừa giải nén từ mod vào trong thư mục "Wuthering Waves Game"
-<br>
-
-![Ảnh chụp màn hình](https://imgur.com/idrxQOm.png)
+salin folder "client" yang baru saja diekstrak dari mod ke dalam folder "Wuthering Waves Game"
 <br>
 
-# lưu ý nếu xóa mod
-video hướng dẫn xóa: [Bản Launcher](https://streamable.com/gkcbgh), [Bản Steam](https://streamable.com/0kb87k)
+![Screenshot](https://imgur.com/idrxQOm.png)
 <br>
-cần xóa 2 tệp tin wuwaVietHoa.dll, version.dll
+
+# catatan jika menghapus mod
+video panduan hapus: [Versi Launcher](https://streamable.com/gkcbgh), [Versi Steam](https://streamable.com/0kb87k)
+<br>
+perlu menghapus 2 file wuwaIndonesia.dll, version.dll
 <!--
 <br>
-(cần xóa thêm 6 tệp nữa nếu bạn sài mod trước đây: CenSerPatch.dll, winhttp.dll, shorekeeper.dll, WuwaCheckBypass.dll, WuwaCheckBypass.json, libraries.txt)
+(perlu menghapus 6 file lagi jika Anda menggunakan mod sebelumnya: CenSerPatch.dll, winhttp.dll, shorekeeper.dll, WuwaCheckBypass.dll, WuwaCheckBypass.json, libraries.txt)
 -->
 <br>
 
-ở đường dẫn
+di path
 <br>
-bản Launcher :
+Versi Launcher :
 ```console
 \Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\
 ```
-bản Steam :
+Versi Steam :
 ```console
 \Wuthering Waves\Client\Binaries\Win64\
 ```
 <br>
 
-Xóa mod tiếng việt ở đường dẫn
+Hapus mod bahasa di path
 <br>
-bản Launcher :
+Versi Launcher :
 
 ```console
 \Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\
 ```
-bản Steam :
+Versi Steam :
 
 ```console
 \Wuthering Waves\Client\Content\Paks\
 ```
 <br>
-tìm thư mục "~mods" và xóa nó
+cari folder "~mods" dan hapus
 
-## Ảnh chụp màn hình
-![Ảnh chụp màn hình](https://i.imgur.com/oLXjeE9.png)
-![Ảnh chụp màn hình](https://i.imgur.com/o0GN3Nr.png)
-![Ảnh chụp màn hình](https://i.imgur.com/zpMWNVW.png)
-![Ảnh chụp màn hình](https://i.imgur.com/SSr5TyW.png)
+## Screenshot
+![Screenshot](https://i.imgur.com/oLXjeE9.png)
+![Screenshot](https://i.imgur.com/o0GN3Nr.png)
+![Screenshot](https://i.imgur.com/zpMWNVW.png)
+![Screenshot](https://i.imgur.com/SSr5TyW.png)
 
 
 

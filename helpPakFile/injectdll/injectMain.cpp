@@ -3,7 +3,7 @@
 #include "inject.h"
 
 const std::string GlobalWuwaProcName = "Client-Win64-Shipping.exe";
-const char* DLLPath = "wuwaVietHoa.dll";
+const char* DLLPath = "wuwaIndonesia.dll";
 int chonChucNangNao = 0;
 
 void chonPhuongPhapInject()
@@ -40,9 +40,9 @@ void chonPhuongPhapInject()
 
 int main()
 {
-	if (!std::filesystem::exists("wuwaVietHoa.dll"))
+	if (!std::filesystem::exists("wuwaIndonesia.dll"))
 	{
-		std::cout << "Doi ten dll thanh wuwaVietHoa.dll \nDat no cung folder voi Inject." << std::endl;
+		std::cout << "Ubah nama dll menjadi wuwaIndonesia.dll \nLetakkan di folder yang sama dengan Inject." << std::endl;
 		system("pause");
 		killLoader();
 	}

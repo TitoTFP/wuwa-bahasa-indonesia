@@ -77,7 +77,7 @@ std::string GetCurrentDllDirectory(HMODULE hModule) {
 DWORD MainThread(HMODULE Module)
 {
     Logger::Init("Log");
-    LOG_SUCCESS("github.com/Lai-Hoang/wuwa-viet-hoa");
+    LOG_SUCCESS("github.com/Lai-Hoang/wuwa-bahasa-indonesia");
 
     while (true)
     {
@@ -95,19 +95,19 @@ DWORD MainThread(HMODULE Module)
     }
 
     std::filesystem::path dllPath = GetCurrentDllDirectory(Module);
-    dllPath /= "wuwaVietHoa";
-    std::string pathVietHoa = dllPath.string();
-    if (EnsureFolderExists(pathVietHoa)) {
-        LOG_INFO("Thu Muc Da San Sang: %s \n", pathVietHoa.c_str());
+    dllPath /= "wuwaIndonesia";
+    std::string pathIndonesia = dllPath.string();
+    if (EnsureFolderExists(pathIndonesia)) {
+        LOG_INFO("Folder Sudah Siap: %s \n", pathIndonesia.c_str());
     }
     else {
-        LOG_ERROR("Khong The Tao Thu Muc: %s\n", pathVietHoa.c_str());
+        LOG_ERROR("Tidak Dapat Membuat Folder: %s\n", pathIndonesia.c_str());
     }
 
-    if (!ProcessPakFiles(pathVietHoa))
+    if (!ProcessPakFiles(pathIndonesia))
     {
-        LOG_ERROR("Khong co file .Pak nao Hoac khong truy cap duoc thu muc.\n");
-        LOG_WARNING("Thoat Game Sau 5s.\n");
+        LOG_ERROR("Tidak ada file .Pak Atau folder tidak dapat diakses.\n");
+        LOG_WARNING("Keluar dari Game Dalam 5 detik.\n");
         Sleep(5000);
         ExitProcess(1);
     }

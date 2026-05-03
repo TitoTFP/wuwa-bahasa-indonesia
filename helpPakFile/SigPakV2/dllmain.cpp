@@ -63,12 +63,12 @@ bool IsMyGameWindow(HWND hwnd) {
 }
 
 void onAttach(HMODULE Module) {
-    Logger::Init("wuwaVietHoa");
+    Logger::Init("wuwaIndonesia");
     AllocConsole();
     //FILE* f;
     //freopen_s(&f, "CONOUT$", "w", stdout);
 
-    LOG_INFO("Dang Cho wuwaVietHoa: https://github.com/Lai-Hoang/wuwa-viet-hoa\n");
+    LOG_INFO("Menunggu wuwaIndonesia: https://github.com/Lai-Hoang/wuwa-bahasa-indonesia\n");
 
     // Lấy địa chỉ hàm CreateFileW từ kernelbase.dll và kernel32.dll
     HMODULE hKernelBase = GetModuleHandleW(L"kernelbase.dll");

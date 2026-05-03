@@ -1,13 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injectdll", "injectdll\injectdll.vcxproj", "{AF0E196C-29C1-416E-A573-34F6D5FF8490}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wuwaVietHoa", "loadPakWuwaSDK\loadPakWuwaSDK.vcxproj", "{BAB22B8D-2852-4840-A160-07DE940D7C48}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wuwaIndonesia", "loadPakWuwaSDK\loadPakWuwaSDK.vcxproj", "{BAB22B8D-2852-4840-A160-07DE940D7C48}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wuwaVietHoaV2", "SigPakV2\SigPakV2.vcxproj", "{ED74A58C-5D1F-4E46-9E82-C8F6135CF3B9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wuwaIndonesiaV2", "SigPakV2\SigPakV2.vcxproj", "{ED74A58C-5D1F-4E46-9E82-C8F6135CF3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

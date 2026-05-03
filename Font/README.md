@@ -9,7 +9,7 @@ bản Steam :
 \Wuthering Waves\Client\Content\Paks\~mods
 ```
 
-## Nếu muốn font nào đó khác thì vui lòng tạo issues Gửi file font CÓ "việt hóa". Định dạng ".ttf & .otf".
+## Jika Anda menginginkan font lain, silakan buat issue. Kirim file font YANG "mendukung bahasa Indonesia". Format ".ttf & .otf".
 
 # DEMO
 
