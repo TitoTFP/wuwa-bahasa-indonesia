@@ -1,115 +1,212 @@
-<a href="https://discord.gg/sDE9vcQFDK">
-  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
-</a>
+# Wuthering Waves Bahasa Indonesia
 
-# 02/05/2026 Update 3.3
-
-ingin melihat sumber terjemahan lain referensi di sini
-https://github.com/CallMeDangDev/WuwaVH
-
-# Wuthering Waves Bahasa Indonesia 
-catatan, tolong jangan gunakan akun utama.
-BANNED SELALU 10 TAHUN.
+> **Update:** 02/05/2026 — v3.3  
+> Mod terjemahan Wuthering Waves ke Bahasa Indonesia.
 
 
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg)
+[![Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/Lai-Hoang/wuwa-bahasa-indonesia/releases/latest)
 
+---
 
-<!--
-<details>
-<summary>📌 Klik untuk donasi :) </summary>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/82c42a37-e5d5-4b52-bc1f-27348a734a8e" width="724" height="1459">
-</p>
-</details>
--->
+## Daftar Isi
 
-Sebelum menyalahkan sesuatu yang mencuri informasi Anda, mengapa tidak memeriksa komputer Anda terlebih dahulu. Lihat [panduan](Cara_scan_virus.md).
-<br>
-Dengan menggunakan terjemahan ini, Anda tidak perlu mematikan antivirus di komputer Anda, oke.
-<br>
+- [Tentang Project](#tentang-project)
+- [Peringatan Penting](#peringatan-penting)
+- [Cara Kerja Singkat](#cara-kerja-singkat)
+- [Download](#download)
+- [Instalasi](#instalasi)
+  - [Versi Launcher](#versi-launcher)
+  - [Versi Steam](#versi-steam)
+- [Cara Menghapus Mod](#cara-menghapus-mod)
+- [Screenshot](#screenshot)
+- [Referensi](#referensi)
+- [Disclaimer](#disclaimer)
 
-Penjelasan 2 file version.dll, wuwaIndonesia.dll
-<br>
-version.dll berfungsi untuk memuat wuwaIndonesia.dll ke dalam game.
-<br>
-wuwaIndonesia.dll berfungsi untuk melewati pemeriksaan Signature file Pak dari game (penting. Jika tidak ada, bermain 15 menit akan crash/terlempar dari game).
-<br>
-<br>
+---
 
-<!--
-Lihat cara menghindari banned game [di sini](Cach_Tranh_Bi_Game_Ban.md) catatan selalu sarankan Anda tidak boleh menggunakannya di akun utama.
--->
-unduh mod di [SINI](https://github.com/Lai-Hoang/wuwa-bahasa-indonesia/releases/latest)
-<br>
-Video tutorial: [Versi Launcher](https://streamable.com/qsgixc), [Versi Steam](https://streamable.com/601adx)
-<br>
+## Tentang Project
 
-ekstrak file dan salin folder ke path berikut
+**Wuthering Waves Bahasa Indonesia** adalah mod komunitas yang bertujuan menerjemahkan konten cerita Wuthering Waves ke Bahasa Indonesia.
+
+Project ini dibuat agar pemain Indonesia dapat menikmati story dan dialog game dengan lebih nyaman.
+
+---
+
+## Peringatan Penting
+
+> [**WARNING**]
+> Modifikasi file game dapat melanggar Terms of Service/ketentuan layanan Wuthering Waves.  
+> Gunakan mod ini dengan risiko Anda sendiri.
+
+Beberapa hal yang perlu diperhatikan:
+
+- Sangat disarankan **tidak menggunakan akun utama**.
+- Risiko banned, crash, error, atau masalah lain sepenuhnya ditanggung pengguna.
+- Jangan mematikan antivirus hanya untuk menjalankan mod ini.
+- Jika antivirus memberi peringatan, periksa dulu file dan kondisi komputer Anda.
+
+Sebelum menyimpulkan ada file yang mencuri informasi, periksa komputer Anda terlebih dahulu melalui panduan berikut:
+
+➡️ [Panduan scan virus](Cara_scan_virus.md)
+
+---
+
+## Cara Kerja Singkat
+
+Mod ini menggunakan dua file utama:
+
+| File | Fungsi |
+|---|---|
+| `version.dll` | Memuat `wuwaIndonesia.dll` ke dalam game. |
+| `wuwaIndonesia.dll` | Melewati pemeriksaan signature file `.pak` dari game. Tanpa file ini, game berpotensi crash/terlempar setelah beberapa menit bermain. |
+
+---
+
+## Download
+
+Download versi terbaru di sini:
+
+➡️ [Download Latest Release](https://github.com/Lai-Hoang/wuwa-bahasa-indonesia/releases/latest)
+
+Video tutorial:
+
+- [Tutorial Versi Launcher](https://streamable.com/qsgixc)
+- [Tutorial Versi Steam](https://streamable.com/601adx)
+
+---
+
+## Instalasi
+
+### Versi Launcher
+
+1. Download file mod dari halaman release.
+2. Ekstrak file yang sudah diunduh.
+3. Buka folder instalasi Wuthering Waves.
+
+Path tujuan:
+
 ```console
 \Wuthering Waves\Wuthering Waves Game\
 ```
-cara menentukan path di atas:
-klik kanan pada ikon shortcut Wuthering Waves di desktop
-pilih "Open file location"
-<br>
 
-![Screenshot](https://imgur.com/rA4D1Fp.png)
-<br>
+Cara menemukan folder tersebut:
 
-cari folder dengan nama "Wuthering Waves Game" dan klik
-<br>
+1. Klik kanan shortcut **Wuthering Waves** di desktop.
+2. Pilih **Open file location**.
+3. Cari folder bernama **Wuthering Waves Game**.
+4. Buka folder tersebut.
+5. Salin folder `Client` hasil ekstrak mod ke dalam folder **Wuthering Waves Game**.
 
-![Screenshot](https://imgur.com/RiJpLdB.png)
-<br>
-salin folder "client" yang baru saja diekstrak dari mod ke dalam folder "Wuthering Waves Game"
-<br>
+Contoh:
 
-![Screenshot](https://imgur.com/idrxQOm.png)
-<br>
+![Open file location](https://imgur.com/rA4D1Fp.png)
 
-# catatan jika menghapus mod
-video panduan hapus: [Versi Launcher](https://streamable.com/gkcbgh), [Versi Steam](https://streamable.com/0kb87k)
-<br>
-perlu menghapus 2 file wuwaIndonesia.dll, version.dll
-<!--
-<br>
-(perlu menghapus 6 file lagi jika Anda menggunakan mod sebelumnya: CenSerPatch.dll, winhttp.dll, shorekeeper.dll, WuwaCheckBypass.dll, WuwaCheckBypass.json, libraries.txt)
--->
-<br>
+![Wuthering Waves Game folder](https://imgur.com/RiJpLdB.png)
 
-di path
-<br>
-Versi Launcher :
+![Copy Client folder](https://imgur.com/idrxQOm.png)
+
+---
+
+### Versi Steam
+
+Untuk versi Steam, lokasi folder biasanya berbeda.
+
+Path umum:
+
+```console
+\Wuthering Waves\
+```
+
+Pastikan struktur akhirnya mengarah ke folder berikut:
+
+```console
+\Wuthering Waves\Client\
+```
+
+Jika ragu, ikuti video tutorial:
+
+➡️ [Tutorial Versi Steam](https://streamable.com/601adx)
+
+---
+
+## Cara Menghapus Mod
+
+Video panduan uninstall:
+
+- [Hapus Mod — Versi Launcher](https://streamable.com/gkcbgh)
+- [Hapus Mod — Versi Steam](https://streamable.com/0kb87k)
+
+### 1. Hapus file DLL
+
+Hapus dua file berikut:
+
+```console
+wuwaIndonesia.dll
+version.dll
+```
+
+Lokasi untuk **Versi Launcher**:
+
 ```console
 \Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\
 ```
-Versi Steam :
+
+Lokasi untuk **Versi Steam**:
+
 ```console
 \Wuthering Waves\Client\Binaries\Win64\
 ```
-<br>
 
-Hapus mod bahasa di path
-<br>
-Versi Launcher :
+### 2. Hapus folder mod bahasa
+
+Masuk ke folder `Paks`.
+
+Lokasi untuk **Versi Launcher**:
 
 ```console
 \Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\
 ```
-Versi Steam :
+
+Lokasi untuk **Versi Steam**:
 
 ```console
 \Wuthering Waves\Client\Content\Paks\
 ```
-<br>
-cari folder "~mods" dan hapus
+
+Lalu hapus folder berikut:
+
+```console
+~mods
+```
+
+> [!NOTE]
+> Jika sebelumnya pernah memakai versi mod lain, mungkin ada file tambahan yang perlu dihapus. Periksa kembali folder instalasi jika game masih bermasalah.
+
+---
 
 ## Screenshot
-![Screenshot](https://i.imgur.com/oLXjeE9.png)
-![Screenshot](https://i.imgur.com/o0GN3Nr.png)
-![Screenshot](https://i.imgur.com/zpMWNVW.png)
-![Screenshot](https://i.imgur.com/SSr5TyW.png)
 
+![Screenshot 1](https://i.imgur.com/oLXjeE9.png)
 
+![Screenshot 2](https://i.imgur.com/o0GN3Nr.png)
 
+![Screenshot 3](https://i.imgur.com/zpMWNVW.png)
 
+![Screenshot 4](https://i.imgur.com/SSr5TyW.png)
+
+---
+
+## Referensi
+
+Sumber/referensi terjemahan lain:
+
+- [WuwaVH](https://github.com/CallMeDangDev/WuwaVH)
+
+---
+
+## Disclaimer
+
+Project ini adalah mod komunitas tidak resmi dan tidak berafiliasi dengan Kuro Games atau Wuthering Waves.
+
+Semua merek dagang, aset, dan hak cipta tetap menjadi milik pemilik masing-masing. Pengguna bertanggung jawab penuh atas penggunaan mod ini.
