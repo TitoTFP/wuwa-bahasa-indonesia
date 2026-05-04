@@ -69,6 +69,8 @@ Download versi terbaru di sini:
 
 ➡️ [Download Latest Release](https://github.com/Lai-Hoang/wuwa-bahasa-indonesia/releases/latest)
 
+➡️ [Download Launcher](https://drive.google.com/file/d/1dbofFamdzAw-1ZDhXHncRShGtfWSRhRs/edit)
+
 Video tutorial:
 
 - [Tutorial Versi Launcher](https://streamable.com/qsgixc)
