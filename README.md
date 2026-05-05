@@ -42,7 +42,6 @@ Project ini dibuat agar pemain Indonesia dapat menikmati story dan dialog game d
 
 Beberapa hal yang perlu diperhatikan:
 
-- Sangat disarankan **tidak menggunakan akun utama**.
 - Risiko banned, crash, error, atau masalah lain sepenuhnya ditanggung pengguna.
 - Jangan mematikan antivirus hanya untuk menjalankan mod ini.
 - Jika antivirus memberi peringatan, periksa dulu file dan kondisi komputer Anda.

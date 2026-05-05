@@ -1,154 +1,196 @@
-# Chọn 1 trong số Font này. Tải và copy vào thư mục "~mods".
+# Font Bahasa Indonesia untuk Wuthering Waves
 
-bản Launcher :
+Pilih salah satu font di bawah ini, lalu unduh dan salin file font tersebut ke folder `~mods`.
+
+## Lokasi Folder `~mods`
+
+### Versi Launcher
+
 ```console
 \Wuthering Waves Game\Client\Content\Paks\~mods
 ```
-bản Steam :
+
+### Versi Steam
+
 ```console
 \Wuthering Waves\Client\Content\Paks\~mods
 ```
 
-## Jika Anda menginginkan font lain, silakan buat issue. Kirim file font YANG "mendukung bahasa Indonesia". Format ".ttf & .otf".
+## Request Font Lain
 
-# DEMO
+Jika kamu ingin menggunakan font lain, silakan buat **issue** di repository ini.
+
+Pastikan font yang dikirim:
+
+- Mendukung Bahasa Indonesia.
+- Berformat `.ttf` atau `.otf`.
+
+## Demo Font
 
 <br>
-Font GenshinFont
+
+### GenshinFont
 
 ![GenshinFont_100_P](Hinh/GenshinFont_100_P.jpg)
 
 <br>
-Font FixedsysExcelsior
+
+### FixedsysExcelsior
 
 ![FixedsysExcelsior_100_P](Hinh/FixedsysExcelsior_100_P.jpg)
 
 <br>
-Font TSMaka-SemiboldFont
+
+### TSMaka-SemiboldFont
 
 ![TSMaka-SemiboldFont_100_P](Hinh/TSMaka-SemiboldFont_100_P.jpg)
 
 <br>
-Font MontserratBold
+
+### MontserratBold
 
 ![MontserratBold_Font_100_P](Hinh/MontserratBold_Font_100_P.jpg)
 
 <br>
-Font MontserratBoldItalic
+
+### MontserratBoldItalic
 
 ![MontserratBoldItalic_Font_100_P](Hinh/MontserratBoldItalic_Font_100_P.jpg)
 
 <br>
-Font MontserratLight
+
+### MontserratLight
 
 ![MontserratLight_Font_100_P](Hinh/MontserratLight_Font_100_P.jpg)
 
 <br>
-Font MontserratLightItalic
+
+### MontserratLightItalic
 
 ![MontserratLightItalic_Font_100_P](Hinh/MontserratLightItalic_Font_100_P.jpg)
 
 <br>
-Font WixMadeforDisplayRegularFont
+
+### WixMadeforDisplayRegularFont
 
 ![WixMadeforDisplayRegularFont_100_P](Hinh/WixMadeforDisplayRegularFont_100_P.jpg)
 
 <br>
-Font WuWaTechTest
+
+### WuWaTechTest
 
 ![WuWaTechTest_Font_100_P](Hinh/WuWaTechTest_Font_100_P.jpg)
 
 <br>
-Font SVN-Bali_Script
+
+### SVN-Bali Script
 
 ![SVN-Bali_Script_100_P](Hinh/SVN-Bali_Script_100_P.jpg)
 
 <br>
-Font SVN-Beloved
+
+### SVN-Beloved
 
 ![SVN-Beloved_100_P](Hinh/SVN-Beloved_100_P.jpg)
 
 <br>
-Font SVN-Blenda_Script
+
+### SVN-Blenda Script
 
 ![SVN-Blenda_Script_100_P](Hinh/SVN-Blenda_Script_100_P.jpg)
 
 <br>
-Font SVN-Caprica_Script
+
+### SVN-Caprica Script
 
 ![SVN-Caprica_Script_100_P](Hinh/SVN-Caprica_Script_100_P.jpg)
 
 <br>
-Font SVN-Clementine
+
+### SVN-Clementine
 
 ![SVN-Clementine_100_P](Hinh/SVN-Clementine_100_P.jpg)
 
 <br>
-Font SVN-Coco_FY
+
+### SVN-Coco FY
 
 ![SVN-Coco_FY_100_P](Hinh/SVN-Coco_FY_100_P.jpg)
 
 <br>
-Font SVN-Franko
+
+### SVN-Franko
 
 ![SVN-Franko_100_P](Hinh/SVN-Franko_100_P.jpg)
 
 <br>
-Font SVN-Genica_Pro
+
+### SVN-Genica Pro
 
 ![SVN-Genica_Pro_100_P](Hinh/SVN-Genica_Pro_100_P.jpg)
 
 <br>
-Font SVN-Hole_Hearted
+
+### SVN-Hole Hearted
 
 ![SVN-Hole_Hearted_100_P](Hinh/SVN-Hole_Hearted_100_P.jpg)
 
 <br>
-Font SVN-Internation
+
+### SVN-Internation
 
 ![SVN-Internation_100_P](Hinh/SVN-Internation_100_P.jpg)
 
 <br>
-Font SVN-Larch_Shaded
+
+### SVN-Larch Shaded
 
 ![SVN-Larch_Shaded_100_P](Hinh/SVN-Larch_Shaded_100_P.jpg)
 
 <br>
-Font SVN-Lobster
+
+### SVN-Lobster
 
 ![SVN-Lobster_100_P](Hinh/SVN-Lobster_100_P.jpg)
 
 <br>
-Font SVN-Monday
+
+### SVN-Monday
 
 ![SVN-Monday_100_P](Hinh/SVN-Monday_100_P.jpg)
 
 <br>
-Font SVN-Steady
+
+### SVN-Steady
 
 ![SVN-Steady_100_P](Hinh/SVN-Steady_100_P.jpg)
 
 <br>
-Font SVN-TradeMark
+
+### SVN-TradeMark
 
 ![SVN-TradeMark_100_P](Hinh/SVN-TradeMark_100_P.jpg)
 
 <br>
-Font SourceSans3-Medium
+
+### SourceSans3-Medium
 
 ![SourceSans3-Medium_100_P](Hinh/SourceSans3-Medium_100_P.jpg)
 
 <br>
-Font SourceSans3-SemiBold
+
+### SourceSans3-SemiBold
 
 ![SourceSans3-SemiBold_100_P](Hinh/SourceSans3-SemiBold_100_P.jpg)
 
 <br>
-Font SourceSans3-Bold
+
+### SourceSans3-Bold
 
 ![SourceSans3-Bold_100_P](Hinh/SourceSans3-Bold_100_P.jpg)
 
 <br>
-Font SourceSans3-Black_100_P
+
+### SourceSans3-Black
 
 ![SourceSans3-Black_100_P](Hinh/SourceSans3-Black_100_P.jpg)
