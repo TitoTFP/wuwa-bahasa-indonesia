@@ -1,0 +1,23 @@
+terms:
+  - source: Rover
+    target: Rover
+    note: Player character name/title; keep untranslated.
+  - source: Resonator
+    target: Resonator
+    note: Core Wuthering Waves term; keep consistent.
+  - source: Tacet Field
+    target: Tacet Field
+    note: Game mode/location term; keep untranslated unless project decides otherwise.
+  - source: Echo
+    target: Echo
+    note: Gameplay term; keep untranslated.
+style:
+  locale: id-ID
+  register: natural Indonesian game localization
+  pronouns:
+    player: kamu
+  preserve:
+    - markup tags
+    - placeholders
+    - line breaks
+    - proper nouns

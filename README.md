@@ -14,6 +14,7 @@
 - [Tentang Project](#tentang-project)
 - [Peringatan Penting](#peringatan-penting)
 - [Cara Kerja Singkat](#cara-kerja-singkat)
+- [Tool Lokalisasi](#tool-lokalisasi)
 - [Download](#download)
 - [Instalasi](#instalasi)
   - [Versi Launcher](#versi-launcher)
@@ -60,6 +61,16 @@ Mod ini menggunakan dua file utama:
 |---|---|
 | `version.dll` | Memuat `wuwaIndonesia.dll` ke dalam game. |
 | `wuwaIndonesia.dll` | Melewati pemeriksaan signature file `.pak` dari game. Tanpa file ini, game berpotensi crash/terlempar setelah beberapa menit bermain. |
+
+---
+
+## Tool Lokalisasi
+
+Untuk kontributor terjemahan, project ini menyediakan workflow LLM lokal dengan LM Studio.
+
+Panduan lengkap:
+
+➡️ [Wiki LLM Translator](docs/llm_translate.md)
 
 ---
 
