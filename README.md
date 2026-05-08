@@ -3,7 +3,7 @@
 > **Update:** 02/05/2026 — v3.3  
 > Mod terjemahan Wuthering Waves ke Bahasa Indonesia.
 
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)][(https://discord.gg)](https://discord.gg/rhUKsb7V8r)
 [![Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/TitoTFP/wuwa-bahasa-indonesia/releases/latest)
 
 ---
